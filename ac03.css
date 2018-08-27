@@ -1,0 +1,40 @@
+body{
+
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline red;
+    font-style: italic;
+    
+}
+
+h2{
+
+    font-weight: bold;
+
+}
+
+.eta{
+
+    font-weight: bold;
+}
+
+.eta2{
+
+    text-decoration: underline
+
+}
+
+.eta3{
+
+    color: red;
+}
+
+.eta4{
+
+    color: green;
+}
